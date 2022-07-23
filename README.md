@@ -1,2 +1,2 @@
-# CN_CA3
-The third project of computer networks course implementing some algorithms for routing like Belman Ford and Dijkstra.
+# Routing-Protocols
+The third project of Computer Networks course which some algorithm protocls for routing like Belman Ford and Dijkstra have been implemented. For working with this project in the command line we could command for various things like constructing a topology, finding the table for any node, deleting an edge or insering one.
